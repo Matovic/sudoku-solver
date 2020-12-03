@@ -1,5 +1,3 @@
-//Erik Matoviè
-//zadanie2: Sudoku
 #include <iostream>
 #include <fstream>
 #include <string>
